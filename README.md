@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,8 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# React-NATIVE-Todo-List-App
+Mobile todo list app created with React NATIVE, making it available on both IOS and Android devices. Uses Convex for data storage and backend. Features include CRUD abilities, Dark Mode, Auto Sync  and App Reset.
+To run: run npx expo on one terminal, run convex dev on another terminal. Note: You should create a convex dev account.
+>>>>>>> cd956e400f87dda1802ef544a841b5c7bea0997b
